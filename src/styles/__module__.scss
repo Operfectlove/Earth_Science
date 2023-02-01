@@ -1,0 +1,18 @@
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/dist/bootstrap-vue.css';
+@import '~xeicon/xeicon.css';
+
+@import '~src/styles/normalize';
+
+@import '~src/styles/utils/colors';
+@import '~src/styles/utils/mixins';
+
+@import '~src/styles/labels';
+
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+}

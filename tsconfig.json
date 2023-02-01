@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+		"baseUrl": "src",
+		"paths": {
+			"*": ["*"],
+			"src/*": ["./*"]
+		},
+        "target": "es5",
+        "strict": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "allowJs": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "allowSyntheticDefaultImports": true,
+        "strictPropertyInitialization": false,
+        "strictNullChecks": false,
+        "experimentalDecorators": true,
+        "noImplicitAny": false,
+        "skipLibCheck": true,
+    },
+    "types": [
+        "vue-typescript-import-dts",
+        "node"
+    ],
+	"include": [
+		"src/**/*.ts"
+	],
+	"compileOnSave": false,
+    "files": [
+        "./src/typings/index.d.ts",
+        "./src/typings/es6.d.ts"
+    ]
+}
