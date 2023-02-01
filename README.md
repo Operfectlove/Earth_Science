@@ -27,3 +27,5 @@ npm run unit
 # run all tests
 npm test
 ```
+
+##기술설명
