@@ -29,5 +29,5 @@ npm test
 ```
 
 ## 기술설명
-
+https://github.com/Operfectlove/Earth_Science/issues/1#issue-1565432348
 
