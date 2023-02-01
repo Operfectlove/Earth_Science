@@ -29,5 +29,6 @@ npm test
 ```
 
 ## 기술설명
-https://github.com/Operfectlove/Earth_Science/issues/1#issue-1565432348
+<img width="448" alt="스크린샷 2023-02-01 오전 11 27 05" src="https://user-images.githubusercontent.com/106957635/215955451-905ae1f7-f896-4568-b75a-21ae306327cf.png">
+
 
